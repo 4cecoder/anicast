@@ -1,6 +1,7 @@
 # anicast
+# Search Anime and beam to TV from Cli (macos/linux)
 
-## First run the build command 
+### First run the build command 
 ```bash
 ./setup.sh
 ```
@@ -17,7 +18,7 @@ cast.sh <anime-title-query> <choose result number> <episode number>
 
 ### It should just start casting to whatever's currently castable on your local network
 
-# Dependencies:
+## Dependencies:
 Casting:
 ```
 go
