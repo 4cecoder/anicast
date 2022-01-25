@@ -1,6 +1,6 @@
 # anicast
 # From terminal to TV
-# Search Anime and beam to TV from Cli (macos/linux)
+# Search for an Anime and beam to TV from ONLY YOUR terminal (macos/linux)
 
 ### First run the build command 
 ```bash
