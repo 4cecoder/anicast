@@ -2,6 +2,12 @@
 # From terminal to TV
 # Search for an Anime and beam to TV from ONLY YOUR terminal (macos/linux)
 
+### Repo Cloning Commands
+```bash
+git clone --recursive https://github.com/4cecoder/anicast
+cd anicast
+```
+
 ### First run the build command 
 ```bash
 ./setup.sh
