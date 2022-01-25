@@ -29,7 +29,7 @@ cast.sh <anime-title-query> <choose result number> <episode number>
 ### It should just start casting to whatever's currently castable on your local network
 
 ## Dependencies:
-### Bruh you need these packages tho
+### Bruh you need ALL these packages too
 Casting:
 ```
 go
