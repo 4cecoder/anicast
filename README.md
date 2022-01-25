@@ -1,5 +1,6 @@
 # anicast
-# From terminal to TV
+# ANIME from the terminal to TV in a single command
+
 # Search for an Anime and beam to TV from ONLY YOUR terminal (macos/linux)
 
 ### Repo Cloning Commands
@@ -21,6 +22,8 @@ cd anicast
 #usage
 cast.sh <anime-title-query> <choose result number> <episode number>
 ```
+### Just Wait for your anime selection to download and...
+
 ## Now you're beaming it!
 
 ### It should just start casting to whatever's currently castable on your local network
