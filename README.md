@@ -20,7 +20,7 @@ cd anicast
 
 ```bash
 #usage
-cast.sh <anime-title-query> <choose result number> <episode number>
+./cast.sh <anime-title-query> <choose result number> <episode number>
 ```
 ### Just Wait for your anime selection to download and...
 
