@@ -15,8 +15,10 @@ cd anicast
 ```
 
 ### search for an anime in cli 
-
-# then cast it to a smart tv or other castable device
+``` ani-cli <name> ``` 
+### once you know know the cli name and episode number 
+# Then it is time to get casting
+## cast it to a smart tv or other castable device
 
 ```bash
 #usage
