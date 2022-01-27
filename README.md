@@ -36,7 +36,8 @@ cd anicast
 ### It should just start casting to whatever's currently castable on your local network
 
 ## Dependencies:
-### Bruh you need ALL these packages too
+## *Bruh* 
+### you NEED ALL these normal linux packages working: 
 Casting:
 ```
 go
