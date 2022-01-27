@@ -14,7 +14,8 @@ cd anicast
 ./setup.sh
 ```
 
-### search for an anime in cli 
+## search for an anime title in cli
+1. find your episode number (will need for the next step)
 ``` ani-cli <name> ``` 
 ### once you know know the cli name and episode number 
 # Then it is time to get casting
