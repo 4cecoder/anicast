@@ -15,8 +15,12 @@ cd anicast
 ```
 
 ## search for an anime title in cli
-1. find your episode number (will need for the next step)
-``` ani-cli <name> ``` 
+1. Find the name of the anime and remember the query number (for dub or subbs choice)
+2. test to see if the episode is reachable by this first command
+3. find your episode number (will need for the next step)
+
+``` ani-cli/./ani-cli <name> ``` 
+
 ### once you know know the cli name and episode number 
 # Then it is time to get casting
 ## cast it to a smart tv or other castable device
